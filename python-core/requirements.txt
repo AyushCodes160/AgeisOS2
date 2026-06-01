@@ -1,0 +1,6 @@
+SpeechRecognition
+pyaudio
+requests
+python-socketio[client]
+plyer
+pyttsx3
