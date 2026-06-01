@@ -73,3 +73,4 @@ logs
 
 # Model files (if we want to ignore them, but we are going to commit them)
 # models/
+models/
